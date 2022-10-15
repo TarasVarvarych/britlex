@@ -333,6 +333,8 @@ margin-right: 114px;}
     text-align: center;
     width: 260px;
     padding: 5px 23px 4px 29px;
+    border-radius: 5px;
+    border-color: transparent;
 }
 
 .price span {
